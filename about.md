@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: dis me
 permalink: /about/
 ---
 
-Some information about you!
+### A bit about me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Burgeoning synthetic chemist. Who doesn't love a good mechanism? Miller Lab, UC Berkeley
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ferozjames@berkeley.edu](mailto:email@domain.com)
