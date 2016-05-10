@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Woohoo first post!
+title: An actual start
 ---
 #M-M-M-MARKDOWN
 
@@ -8,4 +8,6 @@ So hopefully with this blog I’ll be writing bi weekly about the music that I�
 
 I’ve also been wanting to mention that my mind and productivity-psychology are very heavily influenced by what I tell my closest friends. It goes a bit like this: there have been a few studies that are able to show that telling others about a project and finishing the project cause nearly identical changes in your brain chemistry – the same reaction is occurring in both situations, and the end result is that people who inform others of their Next Big Thing often don’t end up finishing them, for that very reason. It’s very similar to instant/delayed gratification. I think I’m heavily influenced by this sort of trend, and tend towards the grandiose when I’m planning personal passion projects. Perhaps this is one of them, who really knows. If you are reading this and know me, there’s a good chance I told you about the blog after a bit of a rhythm has been established, and that I think there’s a good chance the blog won’t die. Anyway, I don’t really plan to write all that much about myself, but I do think that writing is a fantastic way to sort out life’s kinks and grow as a person, so there very well could be a few posts that just aim to chat about life. Maybe I’ll sign my name something cheesy like –xoFJ or some shit like that. –Syzygy? Maybe –Giant Dolphin for the homies who go way back. 
 
-Oh did I mention I'm into chemistry? Maybe I forgot that part. 
+Oh did I mention I'm into chemistry? Maybe I forgot that part.
+
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A7b8s4Z0abQQ4x4jpct4GjR" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
