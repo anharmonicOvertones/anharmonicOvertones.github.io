@@ -8,6 +8,7 @@ Ch 10 page 512: Exchange integrals result from MOs being described as linear com
 Now I just have to look for a neat way to add LaTeX support...More to come. 
 
 $$\frac{x}{y}$$
+$$\text{IT WORKED!}$$
 <iframe src="http://docs.google.com/gview?url=http://www.if.ufrj.br/~carlos/fismod/seminarios/SternGerlach/SternGerlach_programas/SpinBook02.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 
