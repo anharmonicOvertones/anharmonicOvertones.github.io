@@ -7,4 +7,4 @@ Ch 10 page 512: Exchange integrals result from MOs being described as linear com
 
 Now I just have to look for a neat way to add LaTeX support...More to come. 
 
-![Quantum Dots, porphyrin](files/images/QuantumDots.png)
+![Quantum Dots, porphyrin](https://github.com/anharmonicOvertones/anharmonicOvertones.github.io/blob/master/images/QuantumDots.png)
