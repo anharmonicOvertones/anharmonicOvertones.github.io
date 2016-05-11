@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A quantum mechanical treatment of <del>H<sub>2</sub><sup>+</sup></del>
+title: A quantum mechanical treatment of <del>H<sub>2</sub><sup>+</sup></del> everything
 ---
 > Ch 10 page 512: Exchange integrals result from MOs being described as linear combination of AOs (superpositions!) - they add significant negative potential to the overall bond energy as a function of R, and without them there would be no negative potential energy well at any R. Thus the mere existence of the stable chemical bond is a quantum mechanical effect. 
 
@@ -12,9 +12,11 @@ Truth be told I guess I've known the importance of QM since week 3 of Chem 4A, b
 
 I should mention here that the whole of classical mechanics is not useless! We've gotten away with thousands of years of kinematics and classical electromagnetism precisely because they work as predictive tools *at the scales that are useful to daily life.* It's not a **bold** statement to say that humans are classical creatures. Our intuition is naturally steeped in what we can see and experience in our daily lives, and this is precisely what breaks down when we start to study systems that are primarily governed by quantum mechanical effects. As the energy and size of particles get larger and larger (eg. on the scale of you there, reading this), the [Correspondence Principle](https://en.wikipedia.org/wiki/Correspondence_principle) tells us that the expected values for quantum mechanical observables must agree with their classical counterparts. 
 
+### The most quantum of the quanta
+
+Spin
 
 
-![Quantum Dots, porphyrin](https://raw.githubusercontent.com/anharmonicOvertones/anharmonicOvertones.github.io/master/images/QuantumDots.png)
 
 * Stern gerlach device experiments
 * change of basis
