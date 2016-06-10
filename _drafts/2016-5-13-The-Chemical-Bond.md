@@ -1,4 +1,4 @@
----
+                        ---
 layout: post
 title: A quantum mechanical treatment of <del>Hydrogen</del> everything
 ---
